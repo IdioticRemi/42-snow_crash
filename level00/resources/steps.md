@@ -16,7 +16,7 @@ Malheureusement ce n'est pas le mdp du compte flag00.
 
 En cherchant sur dcode comme suggerait la video de l'intra, on trouve avec la fonction de recherche de cryptage que ca peut etre par rotation/cesar.  
 Le site propose de tester toutes les combinaisons de rotations possibles et propose la solution la plus logique et effectivement,  
-avec un décalage de 15 on obtient:
+avec un décalage de 11/-15 on obtient:
 
 `cdiiddwpgswtgt` -> `nottoohardhere`
 
